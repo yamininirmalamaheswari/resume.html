@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+header{
+    background-color: rgb(102, 147, 210);
+    padding: 20px;
+}
+.p1{
+    font-style: oblique;
+}
+img{
+    border-radius: 600px;
+}
+.p2{
+    background-color: rgb(255, 114, 225);
+}
+.p3{
+    background-color: rgb(0, 0, 0);
+    color: rgb(175, 156, 79);
+}
+.p4{
+    background-color: rgb(13, 212, 56);
+}
+.p5{
+    padding-top: 10px;
+}
